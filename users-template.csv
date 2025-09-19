@@ -1,0 +1,6 @@
+UserName,FirstName,LastName,EmailAddress,EmployeeID,Groups,UIDMode,SpecificUID,Department
+jdoe,John,Doe,jdoe@company.com,12345,Domain Users;LinuxUsers,Sequential,,IT
+jsmith,Jane,Smith,jsmith@company.com,12346,Domain Users;Administrators,EmployeeID,,IT
+bwilson,Bob,Wilson,bwilson@company.com,12347,Domain Users,Auto,,Finance
+acooper,Alice,Cooper,acooper@company.com,12348,Domain Users;HR_Users,Sequential,,HR
+mgarcia,Maria,Garcia,mgarcia@company.com,12349,Domain Users;Sales_Users,Auto,,Sales
